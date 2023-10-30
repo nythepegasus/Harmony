@@ -6,7 +6,7 @@
 	url = https://github.com/rileytestut/CwlPreconditionTesting.git
 [submodule "Backends/Drive"]
 	path = Backends/Drive
-	url = https://github.com/rileytestut/Harmony-Drive.git
+	url = https://github.com/nythepegasus/Harmony-Drive.git
 [submodule "Backends/Dropbox"]
 	path = Backends/Dropbox
 	url = https://github.com/rileytestut/Harmony-Dropbox.git
